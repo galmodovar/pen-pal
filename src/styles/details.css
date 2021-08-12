@@ -1,0 +1,16 @@
+.sentLetter {
+    background: goldenrod;
+    max-width: 43rem;
+}
+
+.letterForm {
+    max-width: 43rem;
+}
+
+span{
+    border: 1px solid;
+    border-radius:  20px;
+    box-shadow: 5px 2px 5px black;
+    background: gray;
+    font-size: large;
+}

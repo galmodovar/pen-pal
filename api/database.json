@@ -1,0 +1,68 @@
+{
+  "letters": [
+    {
+      "author": 1,
+      "recipients": 2,
+      "letter": "adnjfn kfjdal; kfjdak ",
+      "date": 1628785001967,
+      "topics": 1,
+      "id": 1
+    },
+    {
+      "author": 1,
+      "recipients": 1,
+      "letter": "dfa;sjn jfdk kmda",
+      "date": 1628794213463,
+      "topics": 2,
+      "id": 2
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "john doe",
+      "email": "johndoe@johndoe.com"
+    },
+    {
+      "id": 2,
+      "name": "jane doe",
+      "email": "janedoe@janedoe.com"
+    },
+    {
+      "id": 3,
+      "name": "joe doe",
+      "email": "joedoe@joedoe.com"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "doe john",
+      "email": "johndoe@johndoe.com"
+    },
+    {
+      "id": 2,
+      "name": "doe jane",
+      "email": "janedoe@janedoe.com"
+    },
+    {
+      "id": 3,
+      "name": "doe joe",
+      "email": "joedoe@joedoe.com"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "news"
+    },
+    {
+      "id": 2,
+      "name": "sports"
+    },
+    {
+      "id": 3,
+      "name": "jokes"
+    }
+  ]
+}
